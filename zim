@@ -1,0 +1,105 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css">
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+    <div style="width: 570px; height: 701px; position: relative">
+  <div style="width: 570px; height: 701px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #001242 0%, #00237D 100%); border-radius: 36px; border: 1px rgba(255, 0, 0, 0) solid"></div>
+  <div style="width: 261px; height: 116px; left: 269px; top: 538px; position: absolute; mix-blend-mode: darken; background: #0085FF"></div>
+  <div style="left: 70px; top: 268px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">+7 (903) 822-31-88</div>
+  <img style="width: 16px; height: 16px; left: 47px; top: 267px; position: absolute; border-radius: 112.50px" src="https://via.placeholder.com/16x16" />
+  <div style="width: 190px; height: 25px; left: 40px; top: 242px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ КОНТАКТЫ ~</div>
+  <img style="width: 190px; height: 190px; left: 40px; top: 40px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset; border-radius: 32px; border: 1px #00F0FF solid" src="https://via.placeholder.com/190x190" />
+  <div style="width: 190px; height: 94px; left: 40px; top: 244px; position: absolute; background: rgba(217, 217, 217, 0); border: 1px rgba(0, 209.10, 255, 0) solid"></div>
+  <div style="width: 190px; height: 94px; left: 40px; top: 357px; position: absolute; background: rgba(217, 217, 217, 0); border: 1px rgba(0, 209.10, 255, 0) solid"></div>
+  <div style="width: 17px; height: 16px; left: 46px; top: 267px; position: absolute; mix-blend-mode: hard-light; border-radius: 455.50px"></div>
+  <img style="width: 16px; height: 16px; left: 47px; top: 307px; position: absolute" src="https://via.placeholder.com/16x16" />
+  <div style="left: 70px; top: 288px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">sdfghj150030@gmail.com</div>
+  <div style="left: 70px; top: 307px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">zirobobrik</div>
+  <img style="width: 16px; height: 16px; left: 47px; top: 287px; position: absolute" src="https://via.placeholder.com/16x16" />
+  <img style="width: 16px; height: 16px; left: 47px; top: 327px; position: absolute; border-radius: 480px" src="https://via.placeholder.com/16x16" />
+  <div style="left: 70px; top: 327px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Ярославль</div>
+  <div style="width: 190px; height: 28px; left: 40px; top: 347px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ ЯЗЫКИ ~</div>
+  <div style="width: 143px; height: 14px; left: 70px; top: 376px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Русский</div>
+  <div style="width: 143px; height: 14px; left: 70px; top: 404px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Cобачий</div>
+  <div style="width: 143px; height: 14px; left: 70px; top: 390px; position: absolute; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Английский</div>
+  <div style="width: 7px; height: 7px; left: 46px; top: 380px; position: absolute; background: #00F0FF; border-radius: 9999px; border: 1px rgba(255, 255, 255, 0) solid"></div>
+  <div style="width: 7px; height: 7px; left: 46px; top: 394px; position: absolute; background: #00F0FF; border-radius: 9999px; border: 1px rgba(255, 255, 255, 0) solid"></div>
+  <div style="width: 7px; height: 7px; left: 46px; top: 408px; position: absolute; background: #00F0FF; border-radius: 9999px; border: 1px rgba(255, 255, 255, 0) solid"></div>
+  <div style="width: 5px; height: 8px; left: 141px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 157px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 149px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 141px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 213px; top: 393px; position: absolute; background: #D7D7D7"></div>
+  <div style="width: 5px; height: 8px; left: 205px; top: 393px; position: absolute; background: #D7D7D7"></div>
+  <div style="width: 5px; height: 8px; left: 213px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 205px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 197px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 189px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 181px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 173px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 165px; top: 407px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 197px; top: 393px; position: absolute; background: #D7D7D7"></div>
+  <div style="width: 5px; height: 8px; left: 189px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 181px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 173px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 165px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 157px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 149px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 141px; top: 393px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 213px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 205px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 197px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 189px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 181px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 173px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 165px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 157px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 5px; height: 8px; left: 149px; top: 379px; position: absolute; background: #00F0FF"></div>
+  <div style="width: 190px; height: 25px; left: 40px; top: 426px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ ХОББИ ~</div>
+  <div style="width: 190px; height: 56px; left: 40px; top: 451px; position: absolute; text-align: center; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Изучать Холодильник Haier CEF537ASG с объемом 308 л и технологией No Frost.</div>
+  <div style="width: 260px; height: 22px; left: 270px; top: 48px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ О СЕБЕ ~</div>
+  <div style="width: 260px; height: 22px; left: 270px; top: 237px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ ОБРАЗОВАНИЕ ~</div>
+  <div style="width: 260px; height: 144px; left: 270px; top: 79px; position: absolute; text-align: center; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Гений, миллиардер, плейбой, филантроп. Многократный чемпион мира среди чемпионов. Бизнесмен, предприниматель, умнейший человек планеты.  Ас, мастер на все руки, вундеркинд, невероятный талант и гордость планеты.  Великолепный, неподражаемый эрудит. Красавчик и настоящий профессионал любого дела. Именно в нём собраны все лучшие качества человека.</div>
+  <div style="width: 261px; height: 32px; left: 270px; top: 352px; position: absolute; text-align: center; color: #746E6E; font-size: 10px; font-family: Poppins; font-weight: 900; word-wrap: break-word">Институт цифровых систем. 09.03.04 “Программная инженерия”.</div>
+  <img style="width: 236px; height: 72px; left: 282px; top: 271px; position: absolute" src="https://via.placeholder.com/236x72" />
+  <div style="width: 260px; height: 46px; left: 270px; top: 396px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Rubik Wet Paint; font-weight: 400; word-wrap: break-word">~ НАВЫКИ ~</div>
+  <div style="width: 261px; height: 25px; left: 270px; top: 427px; position: absolute; background: #003A70; border-radius: 30px"></div>
+  <div style="width: 261px; height: 25px; left: 270px; top: 504px; position: absolute; background: #0056A5; border-radius: 30px"></div>
+  <div style="width: 261px; height: 25px; left: 270px; top: 478px; position: absolute; background: #003A70; border-radius: 30px"></div>
+  <div style="width: 261px; height: 25px; left: 270px; top: 452px; position: absolute; background: #0056A5; border-radius: 30px"></div>
+  <div style="left: 285px; top: 432px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Умение принимать решение</div>
+  <div style="left: 285px; top: 457px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Умение делать крутой джерк </div>
+  <div style="left: 285px; top: 483px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Ведение переговоров</div>
+  <div style="left: 285px; top: 509px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Способность решать конфликты</div>
+  <img style="width: 18px; height: 14px; left: 507px; top: 434px; position: absolute; mix-blend-mode: color-burn" src="https://via.placeholder.com/18x14" />
+  <img style="width: 18px; height: 14px; left: 507px; top: 510px; position: absolute; mix-blend-mode: color-burn" src="https://via.placeholder.com/18x14" />
+  <img style="width: 18px; height: 14px; left: 507px; top: 485px; position: absolute; mix-blend-mode: color-burn" src="https://via.placeholder.com/18x14" />
+  <img style="width: 18px; height: 14px; left: 507px; top: 459px; position: absolute; mix-blend-mode: color-burn" src="https://via.placeholder.com/18x14" />
+  <div style="width: 252px; height: 0px; left: 274px; top: 566px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 252px; height: 0px; left: 274px; top: 590px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 252px; height: 0px; left: 274px; top: 614px; position: absolute; border: 1px black solid"></div>
+  <div style="width: 252px; height: 0px; left: 274px; top: 640px; position: absolute; border: 1px white solid"></div>
+  <div style="width: 4px; height: 4px; left: 277px; top: 552px; position: absolute; background: white; border-radius: 9999px"></div>
+  <div style="width: 4px; height: 4px; left: 277px; top: 627px; position: absolute; background: white; border-radius: 9999px"></div>
+  <div style="width: 4px; height: 4px; left: 277px; top: 601px; position: absolute; background: white; border-radius: 9999px"></div>
+  <div style="width: 4px; height: 4px; left: 277px; top: 576px; position: absolute; background: white; border-radius: 9999px"></div>
+  <div style="left: 285px; top: 547px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Программирование на С++</div>
+  <div style="left: 285px; top: 571px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Стрельба из гранатомёта</div>
+  <div style="left: 285px; top: 596px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Полёт на самолёте</div>
+  <div style="left: 285px; top: 620px; position: absolute; color: white; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Курьерский навык ЯндексЕда</div>
+  <div style="width: 58px; height: 0px; left: 274px; top: 566px; position: absolute; border: 1px white solid"></div>
+  <div style="width: 252px; height: 0px; left: 274px; top: 590px; position: absolute; border: 1px white solid"></div>
+  <div style="width: 226px; height: 0px; left: 274px; top: 614px; position: absolute; border: 1px white solid"></div>
+  <div style="left: 512px; top: 616px; position: absolute; color: rgba(255, 255, 255, 0.70); font-size: 7px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Ас</div>
+  <div style="left: 491px; top: 592px; position: absolute; opacity: 0.70; color: white; font-size: 7px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Снайпер</div>
+  <div style="left: 490px; top: 567px; position: absolute; color: rgba(255, 255, 255, 0.70); font-size: 7px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Новичок</div>
+  <div style="left: 483px; top: 642px; position: absolute; color: rgba(255, 255, 255, 0.70); font-size: 7px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Красавчик</div>
+  <div style="width: 153px; left: 59px; top: 510px; position: absolute; text-align: center; color: #00F0FF; font-size: 10px; font-family: Poppins; font-weight: 700; word-wrap: break-word">Я бы хотел освоить профессию Президента</div>
+</div>
+  </body>
+</html>
